@@ -13,3 +13,5 @@ Acciones de ADO.NET solicitadas:
 * Eliminar datos
 * Modificar datos
 * Buscar datos
+
+El sistema posee alertas (visuales y auditivas) que notifican al usuario que registra las sanciones el estatus de las faltas del estudiante. También alerta en caso de que se cumpla una sanción disciplinaria.
